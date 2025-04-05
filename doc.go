@@ -1,3 +1,4 @@
-# go-dir
-
+/*
 Package dir provides functions for directory operations.
+*/
+package dir
